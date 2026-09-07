@@ -6,7 +6,7 @@ The application allows users to securely sign in using their own Google account.
 
 🔗 **Live Application:** [Daily Budget Tracker WebApp](https://budget-tracker-imtvdsmv3oinshxqtobhvj.streamlit.app/)
 
-< 🎈 𝑨𝒏𝒚𝒐𝒏𝒆 𝒘𝒉𝒐 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒖𝒔𝒆 𝒐𝒓 𝒕𝒆𝒔𝒕 𝒕𝒉𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏, 𝒔𝒆𝒏𝒅 𝒚𝒐𝒖𝒓 𝒆𝒎𝒂𝒊𝒍 𝒂𝒅𝒅𝒓𝒆𝒔𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑾𝒆𝒃𝑨𝒑𝒑 𝒃𝒚 "𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝑨𝒄𝒄𝒆𝒔𝒔". 𝑻𝒉𝒂𝒏𝒌𝒔.
+> 🎈 𝑨𝒏𝒚𝒐𝒏𝒆 𝒘𝒉𝒐 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒖𝒔𝒆 𝒐𝒓 𝒕𝒆𝒔𝒕 𝒕𝒉𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏, 𝒔𝒆𝒏𝒅 𝒚𝒐𝒖𝒓 𝒆𝒎𝒂𝒊𝒍 𝒂𝒅𝒅𝒓𝒆𝒔𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑾𝒆𝒃𝑨𝒑𝒑 𝒃𝒚 "𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝑨𝒄𝒄𝒆𝒔𝒔". 𝑻𝒉𝒂𝒏𝒌𝒔.
 
 ---
 
