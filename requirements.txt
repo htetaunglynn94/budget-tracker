@@ -1,6 +1,6 @@
-streamlit 
+streamlit
 streamlit-oauth
-gspread 
-google-auth 
+gspread
 pandas
 plotly
+requests
