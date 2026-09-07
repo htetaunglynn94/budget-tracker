@@ -156,4 +156,4 @@ if user_creds:
     # -------------------------------------------------------------------------
     st.sidebar.markdown("---")
     st.sidebar.caption("© 2026 Daily Budget Tracker")
-    st.sidebar.markdown("**This application was created by Htet Aung Lynn**")
+    st.sidebar.markdown("**This application was created by Htet Aung Lynn.**")
