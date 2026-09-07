@@ -150,3 +150,10 @@ if user_creds:
                 st.info("No expense records available for daily trend.")
         else:
             st.info("No records found to visualize.")
+
+    # -------------------------------------------------------------------------
+    # FOOTER / INTELLECTUAL PROPERTY NOTICE
+    # -------------------------------------------------------------------------
+    st.sidebar.markdown("---")
+    st.sidebar.caption("© 2026 Daily Budget Tracker")
+    st.sidebar.markdown("**This application was created by Htet Aung Lynn**")
