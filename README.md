@@ -81,6 +81,7 @@ Create a file at `.streamlit/secrets.toml` in your project root directory and ad
 client_id = "YOUR_CLIENT_ID.apps.googleusercontent.com"
 client_secret = "YOUR_CLIENT_SECRET"
 redirect_uri = "http://localhost:8501"
+```
 
 ---
 
@@ -88,7 +89,9 @@ redirect_uri = "http://localhost:8501"
 
 The project follows a clean, Object-Oriented Programming (OOP) modular design:
 
+
 ```text
+
 budget-tracker/
 ├── .streamlit/
 │   └── secrets.toml         # Encrypted local secrets configuration
