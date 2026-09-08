@@ -46,6 +46,7 @@ if user_creds:
                 "Category",
                 [
                     "Food",
+                    "Medicine",
                     "Transportation",
                     "Cosmetic",
                     "Bills",
